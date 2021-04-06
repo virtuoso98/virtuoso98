@@ -17,6 +17,11 @@ In terms of technical skills, I am familiar with React for front-end and am work
 ## ⚡ Fun facts
 * I'm an avid otaku who learns Japanese. While I have a N2 Certificate, I've rusted significantly.
 * Mathematically, I'm interested in Real Analysis and Linear Algebra.
+
+## 🌱 Currently Learning
+* Self-learning Multivariable Calculus
+* More complex React and Web Dev
+* Leetcode and Competitive Programming
 <!--
 **virtuoso98/virtuoso98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
