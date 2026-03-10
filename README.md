@@ -3,25 +3,24 @@
 
 ## Greetings 👋
 
-I am an aspiring software engineer from Singapore. Currently, I am a sophomore at Yale-NUS College Majoring in Mathematics and Computer Science. While I'm more passionate about Mathematics, I don't mind myself some good side projects once in a while. Do go to <a href="https://www.kzhaoyuan.com">kzhaoyuan.com</a> if you want to find out more about me!
+I am a quantitative developer working in Singapore. I graduated from Yale-NUS College Majoring in Mathematics and Computer Science. While I'm more passionate about Mathematics, I don't mind myself some good side projects once in a while. Do go to <a href="https://www.kzhaoyuan.com">kzhaoyuan.com</a> if you want to find out more about me!
 
-In terms of technical skills, I am familiar with React for front-end and am working towards proficiency for Flask for back-end. Hit me up if you find my skillsets compatible!
+In terms of technical skills, I am highly proficient in q/kdb+, and also experienced in Python on my past roles.
 
 ## 	:world_map: Navigation 
 * Personal Website: <a href="https://www.kzhaoyuan.com">kzhaoyuan.com</a>
 * Linkedin: <a href="https://www.linkedin.com/in/zhaooo/">linkedin.com/in/zhaooo/</a>
 * Instagram: <a href="https://www.instagram.com/zhaoooo__/">instagram.com/zhaoooo__/</a>
-* Medium: <a href="https://medium.com/@zhaoooo">medium.com/@zhaoooo</a>
 * Email: <a href="mailto:k.zhaoyuan98@u.yale-nus.edu.sg">k.zhaoyuan98@u.yale-nus.edu.sg</a>
 
 ## ⚡ Fun facts
-* I'm an avid otaku who learns Japanese. While I have a N2 Certificate, I've rusted significantly.
-* Mathematically, I'm interested in Real Analysis and Linear Algebra.
+* I'm an avid otaku who learns Japanese. While I am JLPT N2 Certified, I've rusted significantly. I'm taking JLPT N1 this year.
+* Mathematically, I'm interested in Real Analysis and Linear Algebra. Too bad, my corporate job doesn't use much of these...
 
 ## 🌱 Currently Learning
-* Self-learning Multivariable Calculus
-* More complex React and Web Dev
-* Leetcode and Competitive Programming
+* Leetcoding to unrust myself in Python
+* Cooking abominations in the kitchen
+* JLPT N1 (Further Advanced Japanese)
 <!--
 **virtuoso98/virtuoso98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
